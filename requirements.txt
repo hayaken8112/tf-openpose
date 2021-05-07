@@ -11,4 +11,5 @@ scipy
 slidingwindow
 tqdm
 tf-slim
+tensorflow == 1.15
 git+https://github.com/ppwwyyxx/tensorpack.git
